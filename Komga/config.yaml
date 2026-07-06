@@ -1,8 +1,13 @@
 name: "Komga"
-version: 1.24.3
+version: "1.25.0"
 slug: "komga"
-description: "Komga is a media server for your comics, mangas, BDs, magazines and eBooks."
-url: https://komga.org/docs/introduction
+description: >
+  Komga is a media server for your comics, mangas, BDs, magazines and eBooks.
+  Example:
+  Opens the web interface: http://[HOST]:[PORT:25600]/
+  Normal link: http://homeassistant.local:25600/
+url: "https://komga.org/docs/introduction"
+webui: "http://[HOST]:[PORT:25600]/" 
 arch:
   - amd64
   - aarch64
@@ -15,7 +20,7 @@ map:
   - type: addon_config
     read_only: false
   - type: media
-    read_only: False
+    read_only: false
   - type: share
     read_only: false
 image: "ghcr.io/gotson/komga"
