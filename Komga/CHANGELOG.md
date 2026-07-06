@@ -1,4 +1,20 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.25.0
+Changelog: https://github.com/gotson/komga/releases/tag/1.25.0
+
+## Manual updates.
+New addition: Button for direct access to the web interface.
+ Example:
+Opens the web interface: http://[HOST]:[PORT:25600]/
+Normal link: http://homeassistant.local:25600/ 
+
+Thanks to the template creator:
+https://github.com/Nina-Syrina/Homeassistant-Addons
+
+## 1.24.4
+Changelog: https://github.com/gotson/komga/releases/tag/1.24.4
+
+<!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 ## 1.24.3
 Changelog: https://github.com/gotson/komga/releases/tag/1.24.3
 
