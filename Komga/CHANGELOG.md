@@ -1,12 +1,17 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+
+## 1.26.1
+Changelog: https://github.com/gotson/komga/releases/tag/1.26.1
+
 ## 1.25.0
 Changelog: https://github.com/gotson/komga/releases/tag/1.25.0
 
-## Manual updates.
+## Manual HA-Addon-Repo updates.
 New addition: Button for direct access to the web interface.
  Example:
-Opens the web interface: http://[HOST]:[PORT:25600]/
-Normal link: http://homeassistant.local:25600/ 
+Opens the web interface: http://[HOST-IP]:[PORT:25600]/
+Example: http://192.168.178.12:25600/
+Normal link: http://homeassistant.local:25600/ (Not Working for me)
 
 Thanks to the template creator:
 https://github.com/Nina-Syrina/Homeassistant-Addons
