@@ -1,4 +1,6 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.29.2
+https://github.com/gotson/komga/releases/tag/1.29.2
 
 ## 1.29.1
 https://github.com/gotson/komga/releases#release-1.29.1
