@@ -4,34 +4,34 @@
 ](https://github.com/gotson/komga/releases/tag/1.30.1)
 
 ## 1.30.0
-https://github.com/gotson/komga/releases/tag/1.30.0
+[https://github.com/gotson/komga/releases/tag/1.30.0](https://github.com/gotson/komga/releases/tag/1.30.0)
 
 ## 1.29.2
-https://github.com/gotson/komga/releases/tag/1.29.2
+[https://github.com/gotson/komga/releases/tag/1.29.2](https://github.com/gotson/komga/releases/tag/1.29.2)
 
 ## 1.29.1
-https://github.com/gotson/komga/releases#release-1.29.1
+[https://github.com/gotson/komga/releases#release-1.29.1](https://github.com/gotson/komga/releases#release-1.29.1)
 
 ## 1.29.0
-https://github.com/gotson/komga/releases#release-1.29.0
+[https://github.com/gotson/komga/releases#release-1.29.0](https://github.com/gotson/komga/releases#release-1.29.0)
 
 ## 1.28.1
-https://github.com/gotson/komga/releases/tag/1.28.1
+[https://github.com/gotson/komga/releases/tag/1.28.1](https://github.com/gotson/komga/releases/tag/1.28.1)
 
 ## 1.28.0
-https://github.com/gotson/komga/releases/tag/1.28.0
+[https://github.com/gotson/komga/releases/tag/1.28.0](https://github.com/gotson/komga/releases/tag/1.28.0)
 
 ## 1.27.1
-https://github.com/gotson/komga/releases/tag/1.27.1
+[https://github.com/gotson/komga/releases/tag/1.27.1](https://github.com/gotson/komga/releases/tag/1.27.1)
 
 ## 1.27.0
-https://github.com/gotson/komga/releases/tag/1.27.0
+[https://github.com/gotson/komga/releases/tag/1.27.0](https://github.com/gotson/komga/releases/tag/1.27.0)
 
 ## 1.26.3
-https://github.com/gotson/komga/releases/tag/1.26.3
+[https://github.com/gotson/komga/releases/tag/1.26.3](https://github.com/gotson/komga/releases/tag/1.26.3)
 
 ## 1.26.2
-https://github.com/gotson/komga/releases/tag/1.26.2
+[https://github.com/gotson/komga/releases/tag/1.26.2](https://github.com/gotson/komga/releases/tag/1.26.2)
 
 ## 1.26.1
 Changelog: https://github.com/gotson/komga/releases/tag/1.26.1
